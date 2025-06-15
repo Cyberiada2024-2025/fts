@@ -1,0 +1,29 @@
+site_name: Faster Than Scrap
+copyright: 2025 Vertex
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/Cyberiada2024-2025
+
+nav:
+  - Rozgrywka: index.md
+  - O nas: about.md
+
+theme:
+  logo: assets/logo.png
+  name: material
+  language: pl
+
+  features:
+    - navigation.footerhttps://github.com/Cyberiada2024-2025
+  
+  palette:
+      scheme: slate
+      primary: black
+
+markdown_extensions:
+  - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
