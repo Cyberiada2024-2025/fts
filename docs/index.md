@@ -17,7 +17,7 @@ Kultyści otworzyli bramę do innego wymiaru przyzywając niszczący wszystko wi
 # Stwórz swój wymarzony statek
 
 <video controls>
-    <source src="../../assets/building.webm" type="video/mp4">
+    <source src="assets/building.webm" type="video/mp4">
 </video>
 
 ![Statek](assets/spaceship.png){ align=right width="320"}
@@ -26,7 +26,7 @@ Skorzystaj z szerokiego asortymentu części aby zbudować swój wymarzony state
 
 - laserów i pocisków
 - tarczy
-- thrusterów
+- silników manewrowych
 
 ...i wiele innych!
 
