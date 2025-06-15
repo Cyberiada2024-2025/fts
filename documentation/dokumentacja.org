@@ -1,0 +1,24 @@
+#+TITLE: Dokumentacja strony
+#+AUTHOR: Vertex
+#+OPTIONS: toc:nil
+#+LATEX_HEADER: \usepackage[polish]{babel}
+#+LATEX_HEADER: \usepackage{titlesec}
+#+LATEX_HEADER: \titlelabel{\thetitle.\quad}
+#+LANGUAGE: pl
+
+* Zastosowane narzędzia/technologie
+Strona została utworzona za pomocą generatora stron statycznych *MkDocs* wraz z motywem *Material for MkDocs*.
+
+Wybranie MkDocs pozwoliło zarówno na szybkie stworzenie strony przy pomocy języka *Markdown* jak również jej opublikowanie za pomocą Github Pages.
+
+* Decyzje projektowe
+Strona wykorzystuje ciemny motyw w celu zwiększenia skojarzeń z kosmosem - światem naszej gry.
+
+Podstawowe kolory to czerń i granat - stanowią one kontekst dla reszty materiałów. Kolorystyka obrazów jest spójna wewnątrz sekcji. Początek jest czerwony, środek zielony, koniec niebieski (easter egg - RGB). W żadnej sekcji nie występują na raz wszystkie kolory podstawowe aby nie dawać wrażenia "gry dla dzieci".
+
+Każdą sekcję poprzedza /hero banner/ bądź grafika przedstawiająca dotyczący tej sekcji fragment rozgrywki. Sam układ strony sprzyja skalowaniu dla urządzeń mobilnych.
+
+* Podział pracy
+- Wykonanie strony: Szymon Zadworny
+- Opis fabuły: Łukasz Surma
+- Nagrania: Krzysztof Pisarski
